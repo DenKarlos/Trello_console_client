@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: trello-client-basics-api-DenKarlos
+Version: 0.0.1
+Summary: Programm that from python script interact with Trello using API
+Home-page: https://github.com/DenKarlos/Trello_console_client
+Author: Kominarets Denis
+Author-email: kominaretsdenis@yandex.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Р­С‚Рѕ РјРѕР№ РєРѕРЅСЃРѕР»СЊРЅС‹Р№ РєР»РёРµРЅС‚ РґР»СЏ Trello!
+This is my console client for Trello!
+
